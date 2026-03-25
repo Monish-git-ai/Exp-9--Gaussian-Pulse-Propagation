@@ -51,6 +51,15 @@ Place and connect the following components:
 
 ---
 
+## Block Diagram
+
+<img width="494" height="308" alt="image" src="https://github.com/user-attachments/assets/40c0cf17-6345-4c32-837f-90ffb93c0ab2" />
+
+
+## Graph
+<img width="729" height="425" alt="image" src="https://github.com/user-attachments/assets/e07a563c-a994-4013-9d76-ebaf1cc6152d" />
+
+
 ## Simulation
 - Set the parameters and run the simulation.  
 - Use the visualizer displays to measure:  
